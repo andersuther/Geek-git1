@@ -48,6 +48,9 @@ Se possivel forneça as informações para diferentes plataformas, Windowns , Li
 
 ## Meta
 
-Seu nome - [@AndersonFernandes](https://www.instagram.com/anderjj0/) - seuemail@gmail.com
+Seu nome - [@AndersonFernandes](https://www.instagram.com/anderjj0/)
+ seuemail@gmail.com
+
 Distribuido sobre a licença. Vela `LICENÇA` para mais informações.
+
 [https://github.com/seuusuario/seuprojeto](https://github.com)
